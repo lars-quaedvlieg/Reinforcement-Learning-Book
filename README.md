@@ -4,7 +4,7 @@ I have created a small book summarizing concepts from the Reinforcement Learning
 
 My future ideas for this book are the following:
 
-- Add content from more recent version of the course, published on Google DeepMind's resources page
+- Add content from more recent version of the course, published on Google DeepMind's resources page (e.g. Double Deep Q-Learning, ...)
 
 - Add interesting chapters about state-of-the-art and important research papers to the book (e.g. successor functions, AlphaGo, ...)
 
