@@ -1,6 +1,6 @@
 # Reinforcement-Learning-Book
 
-I have created a small book summarizing concepts from the Reinforcement Learning 2015 course at UCL (https://www.davidsilver.uk/teaching/).
+I have created a small book summarizing concepts from the Reinforcement Learning part of the ATML 2015 course at UCL (https://www.davidsilver.uk/teaching/).
 
 My future ideas for this book are the following:
 
