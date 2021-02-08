@@ -6,10 +6,10 @@ My future ideas for this book are the following:
 
 - Add content from more recent version of the course, published on Google DeepMind's resources page (e.g. Double Deep Q-Learning, ...)
 
-- Add interesting chapters about state-of-the-art and important research papers to the book (e.g. successor functions, AlphaGo, ...)
+- Add interesting chapters about state-of-the-art and important research papers to the book (e.g. successor representations, AlphaGo, ...)
 
 - Provide code to the chapters that can help explain the content
 
-- Fix styling and formatting / spelling and grammer where needed
+- Fix styling and formatting / spelling and grammar where needed
 
 However, these are just ideas at the moment. Feel free to contact me for collaboration if this idea sounds interesting to you and you want to help me progressing further. 
