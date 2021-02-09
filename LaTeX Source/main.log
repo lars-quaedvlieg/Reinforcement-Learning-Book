@@ -1,0 +1,1188 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  8 FEB 2021 20:58
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\bk12.clo"
+File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pdfescape\pdfescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/hycolor\hycolor.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/letltxmacro\letltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen137
+\Hy@linkcounter=\count176
+\Hy@pagecounter=\count177
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/intcalc\intcalc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/etexcmds\etexcmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count178
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count179
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen138
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/bitset\bitset.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/bigintcalc\bigintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count180
+\Field@Width=\dimen139
+\Fld@charsize=\dimen140
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/atbegshi\atbegshi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count181
+\c@Item=\count182
+\c@Hfootnote=\count183
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/atveryend\atveryend.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count184
+\c@bookmark@seq@number=\count185
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/rerunfilecheck\rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/uniquecounter\uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen141
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count186
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count187
+\leftroot@=\count188
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count189
+\DOTSCASE@=\count190
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count191
+\c@MaxMatrixCols=\count192
+\dotsspace@=\muskip17
+\c@parentequation=\count193
+\dspbrk@lvl=\count194
+\tag@help=\toks19
+\row@=\count195
+\column@=\count196
+\maxfields@=\count197
+\andhelp@=\toks20
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks21
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/titlesec\titlesec.sty"
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box47
+\beforetitleunit=\skip53
+\aftertitleunit=\skip54
+\ttl@plus=\dimen150
+\ttl@minus=\dimen151
+\ttl@toksa=\toks23
+\titlewidth=\dimen152
+\titlewidthlast=\dimen153
+\titlewidthfirst=\dimen154
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count198
+\float@exts=\toks24
+\float@box=\box48
+\@float@everytoks=\toks25
+\@floatcapt=\box49
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/algorithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks26
+\c@algorithm=\count199
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/algorithms\algorithmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count266
+\c@ALC@line=\count267
+\c@ALC@rem=\count268
+\c@ALC@depth=\count269
+\ALC@tlm=\skip55
+\algorithmicindent=\skip56
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip57
+\bibsep=\skip58
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count270
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count271
+\l__pdf_internal_box=\box50
+)
+(main.aux (TeX_files/chapter01.aux) (TeX_files/chapter02.aux)
+(TeX_files/chapter03.aux
+
+LaTeX Warning: Label `alg:it-pol-eval' multiply defined.
+
+) (TeX_files/chapter04.aux
+
+LaTeX Warning: Label `alg:MC-eval' multiply defined.
+
+) (TeX_files/chapter05.aux
+
+LaTeX Warning: Label `alg:MC-eval' multiply defined.
+
+) (TeX_files/chapter06.aux) (TeX_files/chapter07.aux) (TeX_files/chapter08.aux)
+(TeX_files/chapter09.aux) (TeX_files/chapter10.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count272
+\scratchdimen=\dimen155
+\scratchbox=\box51
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen156
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks28
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+\AtBeginShipoutBox=\box52
+Package hyperref Info: Link coloring OFF on input line 22.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/refcount\refcount.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/gettitlestring\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count278
+)
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
+
+(main.out) (main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+
+{C:/Users/Larsq/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (main.toc [
+2
+
+])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [3]
+\openout2 = `./TeX_files/chapter01.aux'.
+
+
+(TeX_files/chapter01.tex
+Chapter 1.
+
+Overfull \hbox (0.46346pt too wide) in paragraph at lines 1--1
+|\OT1/cmr/bx/n/24.88 Intro to Re-in-force-ment Learn-ing| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+[1
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Overfull \hbox (16.93753pt too wide) in paragraph at lines 80--81
+[]\OT1/cmr/bx/n/12 Planning \OT1/cmr/m/n/12 (e.g. de-lib-er-a-tion, rea-son-ing
+, in-tro-spec-tion, pon-der-ing, thought,
+ []
+
+) [3pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.34 \include{./TeX_files/chapter01}
+                                    ]
+\openout2 = `./TeX_files/chapter02.aux'.
+
+ (TeX_files/chapter02.tex
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+<C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/markov-chain-ex
+ample.png, id=378, 602.25pt x 338.26375pt>
+File: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/markov-cha
+in-example.png Graphic file (type png)
+<use C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/markov-chai
+n-example.png>
+Package pdftex.def Info: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/edi
+ting/Res/markov-chain-example.png  used on input line 7.
+(pdftex.def)             Requested size: 398.33858pt x 223.73993pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 7--8
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+[4
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.15 
+      <C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/markov-ch
+ain-example.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+[5pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.44 
+     ]
+<C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/mdp-example.png
+, id=394, 419.31656pt x 239.39438pt>
+File: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/mdp-exampl
+e.png Graphic file (type png)
+<use C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/mdp-example
+.png>
+Package pdftex.def Info: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/edi
+ting/Res/mdp-example.png  used on input line 51.
+(pdftex.def)             Requested size: 426.79134pt x 243.66031pt.
+
+Overfull \hbox (36.79134pt too wide) in paragraph at lines 51--52
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+[6pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.61 
+      <C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/mdp-examp
+le.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.93 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.2
+.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.93 
+     ]
+Overfull \hbox (22.68816pt too wide) in paragraph at lines 108--109
+\OT1/cmr/bx/n/12 ti-mal-ity Equa-tions\OT1/cmr/m/n/12 . $\OML/cmm/m/it/12 v[]\O
+T1/cmr/m/n/12 (\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 ) = [][] \OML/cmm/m/it/12 q[]\
+OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s; a\OT1/cmr/m/n/12 )$ and $\OML/cmm/m/it/12 q
+[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s; a\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 R[
+] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12  [][] P[]v[]\OT1/cmr/m/n/12 (\OML/cmm/m/i
+t/12 s[]\OT1/cmr/m/n/12 )$.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.2.6}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.138 
+      ]) [9]
+\openout2 = `./TeX_files/chapter03.aux'.
+
+ (TeX_files/chapter03.tex
+Chapter 3.
+
+Overfull \hbox (23.38527pt too wide) in paragraph at lines 1--1
+|\OT1/cmr/bx/n/24.88 Planning - Dy-namic Pro-gram-ming| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 12.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Underfull \vbox (badness 1270) has occurred while \output is active []
+
+ [10
+
+
+
+]
+<C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/policy-iteratio
+n.png, id=435, 410.2828pt x 230.36063pt>
+File: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/policy-ite
+ration.png Graphic file (type png)
+<use C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/policy-iter
+ation.png>
+Package pdftex.def Info: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/edi
+ting/Res/policy-iteration.png  used on input line 54.
+(pdftex.def)             Requested size: 227.62204pt x 127.80243pt.
+
+Overfull \hbox (28.92143pt too wide) in paragraph at lines 59--60
+[] [][] \OML/cmm/m/it/12 q[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s; a\OT1/cmr/m/n/
+12 )$. This means that $\OML/cmm/m/it/12 q[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s
+; []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 )) = [][] \OML/cmm/m/it
+/12 q[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s; a\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12
+  \OML/cmm/m/it/12 q[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s; \OT1/cmr/m/n/12 (\
+OML/cmm/m/it/12 s\OT1/cmr/m/n/12 )) =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+[11pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.63 P
+      olicy iteration can be generalized. Before we performed policy evaluat...
+ <C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/policy-iterati
+on.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+[12] [13]) [14]
+\openout2 = `./TeX_files/chapter04.aux'.
+
+ (TeX_files/chapter04.tex
+Chapter 4.
+
+Overfull \hbox (2.8987pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/12 Sampling meth-ods like Monte-Carlo meth-ods are about learn-ing
+ from episodes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+[15
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+[16]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 80.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\lambda' on input line 80.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 80.
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+<C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/lambda-weightin
+g.png, id=493, 594.72188pt x 228.855pt>
+File: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/lambda-wei
+ghting.png Graphic file (type png)
+<use C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/lambda-weig
+hting.png>
+Package pdftex.def Info: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/edi
+ting/Res/lambda-weighting.png  used on input line 94.
+(pdftex.def)             Requested size: 398.33858pt x 153.28316pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 94--95
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+[18pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.102 
+       <C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/lambda-w
+eighting.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19])
+[20]
+\openout2 = `./TeX_files/chapter05.aux'.
+
+ (TeX_files/chapter05.tex
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+[21
+
+
+
+]
+<C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/MC-Control.png,
+ id=529, 409.53pt x 258.9675pt>
+File: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/MC-Control
+.png Graphic file (type png)
+<use C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/MC-Control.
+png>
+Package pdftex.def Info: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/edi
+ting/Res/MC-Control.png  used on input line 59.
+(pdftex.def)             Requested size: 256.0748pt x 161.93726pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+[23pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.90 
+      <C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/MC-Contro
+l.png>]
+Overfull \hbox (8.3177pt too wide) in paragraph at lines 108--109
+[]\OT1/cmr/bx/n/12 Robbins-Monro \OT1/cmr/m/n/12 se-quence of step-sizes $\OML/
+cmm/m/it/12 []$ \OT1/cmr/m/n/12 ($[][] \OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 = 
+\OMS/cmsy/m/n/12 1$ \OT1/cmr/m/n/12 and $[][] \OML/cmm/m/it/12 [] <
+ []
+
+
+Overfull \hbox (22.71407pt too wide) in paragraph at lines 112--113
+[]\OT1/cmr/m/n/12 Just like $\OML/cmm/m/it/12 n$\OT1/cmr/m/n/12 -step TD and TD
+($\OML/cmm/m/it/12 $\OT1/cmr/m/n/12 ), there ex-ists \OT1/cmr/bx/n/12 n-step S
+ARSA \OT1/cmr/m/n/12 and \OT1/cmr/bx/n/12 SARSA($\OML/cmm/m/it/12 $\OT1/cmr/bx
+/n/12 )\OT1/cmr/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+[24]
+<C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/lambda-role-sar
+sa.png, id=568, 922.19531pt x 301.125pt>
+File: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/lambda-rol
+e-sarsa.png Graphic file (type png)
+<use C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/lambda-role
+-sarsa.png>
+Package pdftex.def Info: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/edi
+ting/Res/lambda-role-sarsa.png  used on input line 149.
+(pdftex.def)             Requested size: 341.43306pt x 111.488pt.
+ [25pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.160 \textbf{Importance Sampling}
+                                   is a way of estimating the expectation of...
+ <C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/lambda-role-sa
+rsa.png>]
+Overfull \hbox (19.51991pt too wide) detected at line 167
+[][]
+ []
+
+
+Overfull \hbox (2.26578pt too wide) in paragraph at lines 177--178
+\OML/cmm/m/it/12 V[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 S[]\OT1/cmr/m/n/12 ) + \O
+ML/cmm/m/it/12  []$\OT1/cmr/m/n/12 . There are sev-eral down-sides to us-ing t
+his method.
+ []
+
+
+Overfull \hbox (20.01776pt too wide) in paragraph at lines 191--192
+[]\OT1/cmr/m/n/12 Now al-low both poli-cies to be able to im-prove. $\OML/cmm/m
+/it/12 \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 S[]\OT1/cmr/m/n/12 ) = [] [][] \OML/c
+mm/m/it/12 Q\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 S[]; a[]\OT1/cmr/m/n/12 )$
+ []
+
+[26]) [27]
+\openout2 = `./TeX_files/chapter06.aux'.
+
+ (TeX_files/chapter06.tex
+Chapter 6.
+[28
+
+
+
+]
+Overfull \hbox (37.56941pt too wide) in paragraph at lines 32--33
+\OT1/cmr/m/n/12 pos-si-ble to ap-ply su-per-vised learn-ing to the data $(\OML/
+cmm/m/it/12 S[]; G[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 (\OML/c
+mm/m/it/12 S[]; G[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; :::; \OT1/cmr/m/n/12 (\O
+ML/cmm/m/it/12 S[]; G[]\OT1/cmr/m/n/12 )$.
+ []
+
+[29] [30pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.6.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.120 
+      ]
+Overfull \hbox (3.2965pt too wide) in paragraph at lines 133--134
+[]\OT1/cmr/bx/n/12 Deep Q-Networks \OT1/cmr/m/n/12 use ex-pe-ri-ence re-play to
+-gether with \OT1/cmr/bx/n/12 fixed Q-targets\OT1/cmr/m/n/12 .
+ []
+
+[31pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.140 	\item o
+              ptimize MSE between Q-network and Q-learning targets using som...
+]
+Overfull \hbox (4.22153pt too wide) in paragraph at lines 162--163
+\OT1/cmr/m/n/12 Since we do not know $\OML/cmm/m/it/12 v[]$\OT1/cmr/m/n/12 , we
+ can again use the es-ti-mates $\OML/cmm/m/it/12 G[]$\OT1/cmr/m/n/12 , $\OML/cm
+m/m/it/12 R[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 []\OT1/cmr/m/n/12 (\OML/cmm/m
+/it/12 S[]; w\OT1/cmr/m/n/12 )$,
+ []
+
+
+Overfull \hbox (10.59991pt too wide) in paragraph at lines 162--163
+\OT1/cmr/m/n/12 or $\OML/cmm/m/it/12 G[]$\OT1/cmr/m/n/12 . Re-spec-tively, thes
+e al-go-rithms are called \OT1/cmr/bx/n/12 LSMC\OT1/cmr/m/n/12 , \OT1/cmr/bx/n/
+12 LSTD \OT1/cmr/m/n/12 and \OT1/cmr/bx/n/12 LSTD($\OML/cmm/m/it/12 $\OT1/cmr/
+bx/n/12 )\OT1/cmr/m/n/12 .
+ []
+
+[32]) [33]
+\openout2 = `./TeX_files/chapter07.aux'.
+
+ (TeX_files/chapter07.tex
+Chapter 7.
+[34
+
+
+
+] [35]
+Overfull \hbox (104.8352pt too wide) in paragraph at lines 93--94
+[]\OT1/cmr/m/n/12 These al-go-rithms fol-low an \OT1/cmr/m/it/12 ap-prox-i-mate
+ \OT1/cmr/m/n/12 pol-icy gra-di-ent $\OMS/cmsy/m/n/12 r[]\OML/cmm/m/it/12 J\OT1
+/cmr/m/n/12 (\OML/cmm/m/it/12 \OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12  [][] []$\OT
+1/cmr/m/n/12 . 
+ []
+
+[36]
+Overfull \hbox (25.79381pt too wide) in paragraph at lines 114--115
+\OT1/cmr/bx/n/12 rem \OT1/cmr/m/n/12 says that the pol-icy gra-di-ent is \OT1/c
+mr/m/it/12 ex-act \OT1/cmr/m/n/12 ($\OMS/cmsy/m/n/12 r[]\OML/cmm/m/it/12 J\OT1/
+cmr/m/n/12 (\OML/cmm/m/it/12 \OT1/cmr/m/n/12 ) = [][] [])$,
+ []
+
+[37])
+Overfull \hbox (50.79555pt too wide) in paragraph at lines 173--46
+[]\OT1/cmr/m/n/12 Here, $\OML/cmm/m/it/12 G[]$ \OT1/cmr/m/n/12 is the \OT1/cmr/
+m/it/12 Fisher in-for-ma-tion ma-trix\OT1/cmr/m/n/12 . $\OML/cmm/m/it/12 G[] \O
+T1/cmr/m/n/12 = [][] []$.
+ []
+
+[38] [39]
+\openout2 = `./TeX_files/chapter08.aux'.
+
+ (TeX_files/chapter08.tex
+Chapter 8.
+<C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/model-based-rl.
+png, id=691, 596.2275pt x 430.60875pt>
+File: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/model-base
+d-rl.png Graphic file (type png)
+<use C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/model-based
+-rl.png>
+Package pdftex.def Info: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/edi
+ting/Res/model-based-rl.png  used on input line 17.
+(pdftex.def)             Requested size: 170.71652pt x 123.2964pt.
+[40
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.24 
+      <C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/model-bas
+ed-rl.png>] [41]
+<C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/dyna.png, id=70
+5, 579.66562pt x 422.32782pt>
+File: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/dyna.png G
+raphic file (type png)
+<use C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/dyna.png>
+Package pdftex.def Info: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/edi
+ting/Res/dyna.png  used on input line 67.
+(pdftex.def)             Requested size: 170.71652pt x 124.37941pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.90 
+      <C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/dyna.png>
+] [43]) [44] [45]
+\openout2 = `./TeX_files/chapter09.aux'.
+
+ (TeX_files/chapter09.tex
+Chapter 9.
+
+Overfull \hbox (13.59123pt too wide) in paragraph at lines 24--25
+[]\OT1/cmr/m/n/12 The re-gret is the mea-sured op-por-tu-nity loss for one step
+: $\OML/cmm/m/it/12 l[] \OT1/cmr/m/n/12 = [] []$.
+ []
+
+
+Overfull \hbox (39.53305pt too wide) in paragraph at lines 24--25
+\OT1/cmr/m/n/12 The \OT1/cmr/m/it/12 to-tal re-gret \OT1/cmr/m/n/12 is then equ
+al to the to-tal op-por-tu-nity loss $\OML/cmm/m/it/12 L[] \OT1/cmr/m/n/12 = []
+ []$. 
+ []
+
+[46
+
+
+
+]
+<C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/regret-over-tim
+e.png, id=740, 852.18375pt x 406.51875pt>
+File: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/regret-ove
+r-time.png Graphic file (type png)
+<use C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/regret-over
+-time.png>
+Package pdftex.def Info: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/edi
+ting/Res/regret-over-time.png  used on input line 39.
+(pdftex.def)             Requested size: 284.52756pt x 135.72714pt.
+ [47pdfTeX warning (ext4): destination with the same identifier (name{figure.9.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.53 
+      <C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/regret-ov
+er-time.png>]
+<C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/oitfou-before.p
+ng, id=748, 855.195pt x 322.95656pt>
+File: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/oitfou-bef
+ore.png Graphic file (type png)
+<use C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/oitfou-befo
+re.png>
+Package pdftex.def Info: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/edi
+ting/Res/oitfou-before.png  used on input line 77.
+(pdftex.def)             Requested size: 284.52756pt x 107.44823pt.
+<C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/oitfou-after.pn
+g, id=749, 843.90282pt x 313.9228pt>
+File: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/oitfou-aft
+er.png Graphic file (type png)
+<use C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/oitfou-afte
+r.png>
+Package pdftex.def Info: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/edi
+ting/Res/oitfou-after.png  used on input line 84.
+(pdftex.def)             Requested size: 284.52756pt x 105.84138pt.
+ [48 <C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/oitfou-bef
+ore.png>]
+Overfull \hbox (26.12389pt too wide) in paragraph at lines 91--92
+[]\OT1/cmr/m/n/12 By \OT1/cmr/bx/n/12 Ho-effd-ing's In-equal-ity\OT1/cmr/m/n/12
+ , $[] [] \OMS/cmsy/m/n/12  \OML/cmm/m/it/12 e[]$ \OT1/cmr/m/n/12 for $[] = []
+ [][] \OML/cmm/m/it/12 X[]$\OT1/cmr/m/n/12 ,
+ []
+
+[49 <C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/oitfou-afte
+r.png>]
+Overfull \hbox (9.373pt too wide) in paragraph at lines 127--128
+\OT1/cmr/m/n/12 can be com-puted us-ing Bayes' law: $\OML/cmm/m/it/12 p\OT1/cmr
+/m/n/12 [\OML/cmm/m/it/12 []; []\OT1/cmr/m/n/12 ; \OML/cmm/m/it/12 h[]\OT1/cm
+r/m/n/12 ] \OMS/cmsy/m/n/12 / \OML/cmm/m/it/12 p\OT1/cmr/m/n/12 [\OML/cmm/m/it/
+12 []; []\OT1/cmr/m/n/12 ] [][] \OML/cmm/m/it/12 N\OT1/cmr/m/n/12 (\OML/cmm/m
+/it/12 r[]\OT1/cmr/m/n/12 ; \OML/cmm/m/it/12 []; []\OT1/cmr/m/n/12 )$. 
+ []
+
+<C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/ucb-bayesian.pn
+g, id=760, 699.36281pt x 274.02374pt>
+File: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/ucb-bayesi
+an.png Graphic file (type png)
+<use C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/ucb-bayesia
+n.png>
+Package pdftex.def Info: C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/edi
+ting/Res/ucb-bayesian.png  used on input line 133.
+(pdftex.def)             Requested size: 284.52756pt x 111.48494pt.
+[50 <C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/ucb-bayesia
+n.png>]
+Overfull \hbox (3.20612pt too wide) in paragraph at lines 149--151
+\OT1/cmr/m/n/12 Then, use Bayes' law to com-pute the pos-te-rior dis-tri-bu-tio
+n $\OML/cmm/m/it/12 P[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 Q\OMS/cmsy/m/n/12 j\OM
+L/cmm/m/it/12 R[]; :::; R[]\OT1/cmr/m/n/12 )$.
+ []
+
+[51]
+Overfull \hbox (81.9624pt too wide) in paragraph at lines 177--178
+[]\OT1/cmr/m/n/12 For least squares re-gres-sion, pa-ram-e-ter co-vari-ance is 
+$\OML/cmm/m/it/12 A[] \OT1/cmr/m/n/12 = [][]$.
+ []
+
+
+Overfull \hbox (1.90361pt too wide) in paragraph at lines 206--207
+[]\OT1/cmr/m/n/12 The goal is to max-i-mize UCB on the action-value func-tion $
+\OML/cmm/m/it/12 Q[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s; a\OT1/cmr/m/n/12 )$.
+ []
+
+[52]
+Overfull \hbox (60.40106pt too wide) in paragraph at lines 208--209
+[]\OT1/cmr/m/n/12 For this rea-son, max-i-mize UCB on $\OML/cmm/m/it/12 Q[]\OT1
+/cmr/m/n/12 (\OML/cmm/m/it/12 s; a\OT1/cmr/m/n/12 )$ in-stead. $\OML/cmm/m/it/1
+2 a[] \OT1/cmr/m/n/12 = [] [][] \OML/cmm/m/it/12 Q\OT1/cmr/m/n/12 (\OML/cmm/m/i
+t/12 s[]; a\OT1/cmr/m/n/12 ) +
+ []
+
+
+Overfull \hbox (34.72809pt too wide) in paragraph at lines 212--213
+\OT1/cmr/m/n/12 MDP mod-els. Both tran-si-tions and re-wards are es-ti-mated $\
+OML/cmm/m/it/12 p\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 P; R\OMS/cmsy/m/n/12 j\OML/c
+mm/m/it/12 h[]\OT1/cmr/m/n/12 ]\OML/cmm/m/it/12 ; h[] \OT1/cmr/m/n/12 =
+ []
+
+) [53]
+\openout2 = `./TeX_files/chapter10.aux'.
+
+ (TeX_files/chapter10.tex
+Chapter 10.
+
+Overfull \hbox (1.46878pt too wide) in paragraph at lines 27--28
+[]\OT1/cmr/m/n/12 To keep things rel-a-tively sim-ple, this chap-ter re-stricts
+ it-self to \OT1/cmr/bx/n/12 two player\OT1/cmr/m/n/12 ,
+ []
+
+[54
+
+
+
+] [55] [56] [57]
+Overfull \hbox (12.53137pt too wide) in paragraph at lines 124--125
+[]\OT1/cmr/m/n/12 The av-er-age strat-egy can be ex-tracted from nodes' ac-tion
+ counts, $\OML/cmm/m/it/12 []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 a\OMS/cmsy/m/n/
+12 j\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 ) =
+ []
+
+) [58] (main.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
+ [59
+
+
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
+ (main.aux (TeX_files/chapter01.aux)
+(TeX_files/chapter02.aux) (TeX_files/chapter03.aux) (TeX_files/chapter04.aux)
+(TeX_files/chapter05.aux) (TeX_files/chapter06.aux) (TeX_files/chapter07.aux)
+(TeX_files/chapter08.aux) (TeX_files/chapter09.aux) (TeX_files/chapter10.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 0E6A71AF99BCA8587B5A5575255CEB2E;4553.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 60.
+ ) 
+Here is how much of TeX's memory you used:
+ 7811 strings out of 480930
+ 117759 string characters out of 2909548
+ 382544 words of memory out of 3000000
+ 23183 multiletter control sequences out of 15000+200000
+ 545105 words of font info for 73 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,13n,38p,800b,552s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Larsq\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/symbols/msam7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/symbols/msbm10.pfb>
+Output written on main.pdf (62 pages, 1040477 bytes).
+PDF statistics:
+ 935 PDF objects out of 1000 (max. 8388607)
+ 288 named destinations out of 1000 (max. 500000)
+ 589 words of extra memory for PDF output out of 10000 (max. 10000000)
+

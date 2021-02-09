@@ -1,0 +1,94 @@
+\chapter{Intro to Reinforcement Learning}
+
+Reinforcement Learning (RL) is an area of Machine Learning concerned with deciding on a sequence of actions in an unknown environment in order to maximize cumulative reward.
+
+To give an idea of this, imagine you are somewhere in a 2d-maze. At each point, you can either move to the left, right, up or down. The goal is to find your way out of the maze. This corresponds to obtaining positive reward when completing the maze. Using Reinforcement Learning, you can figure out the optimal way to behave in this environment.
+
+\section{The Reinforcement Learning Problem}
+
+What makes reinforcement learning different from other machine learning paradigms?
+\begin{itemize}
+	\item There is no supervisor, only a \textbf{reward} signal
+	\item Feedback is delayed, not instantaneous
+	\item Time really matters (sequential, non i.i.d data)
+	\item Agent's actions affect the subsequent data it receives
+\end{itemize}
+
+Rewards are scalar feedback signals. Reinforcement Learning is based on the \textbf{Reward Hypothesis}, meaning all goals can be described by the maximization of expected
+cumulative reward. This can be hard, since actions can have long-term consequences and reward can be delayed.\\
+
+A state is \textbf{Markov}, if and only if it holds the \textbf{Markov Property}, meaning $\Prob(S_t+1 | S_t) = \Prob(S_t+1 | S_1, ..., S_t)$. This means the probability of future states solely depends on the current state, and not on any previous states. I.e. the history is a sufficient statistic of the future.\\
+
+Let $S_t^a$ be the state of the agent at any time t and $S_t^e$ be the state of the environment on any time t. If the environment is \textbf{fully observable}, then $S_t^a = S_t^e$. This means that the Markov property holds, so formally it is a Markov Decision Process.\\
+
+However, when the environment is \textbf{partially observable}, the agent indirectly observes the environment. Now, $S_t^a \neq S_t^e$. Formally, this is called a partially observable Markov decision process (POMDP). The agent must construct it's own state representation $S_t^a$. For example:
+
+\begin{itemize}
+	\item Complete history: $S_t^a = H_t$
+	\item Beliefs of environment state: $S_t^a = (\Prob[S_t^e = s^1], ...,\Prob[S_t^e = s^n])$
+	\item Recurrent Neural Network: $S_t^a = \sigma(S_{t-1}^a W_s + O_t W_o))$
+\end{itemize}
+
+\section{Components of an RL Agent}
+
+An RL agent may include one or more of these components:
+\begin{itemize}
+	\item \textbf{Policy}: agent's behaviour function
+	\item \textbf{Value function}: how good is each state and/or action
+	\item \textbf{Model}: agent's representation of the environment
+\end{itemize}
+
+A \textbf{policy} describes the agent's behavior. It maps states to actions. You can have deterministic ($a = \pi(s)$) and stochastic policies ($\pi(a | s) = \Prob(A_t = a | S_t = s)$). Often, $\pi$ is used to denote a policy.\\
+
+A \textbf{value function} is a prediction of future reward of a given state. You can use it to determine if a state is good or bad. This means you can use it to select actions. It can be computed by $v_\pi(s) = \E_\pi(G_t | S_t = s)$, where $G_t$ is the \textbf{return} (or total reward). The return is defined as $G_t = R_1 + \gamma R_2 + \gamma^2 R_3 + ... = \sum_{i=t+1}^\infty\gamma^{i-t-1}R_i$ for some $\gamma \in [0, 1]$. This gamma is the \textbf{discount factor}, and it influences how much the future impacts return. This is useful, since it is not known if the representation of the environment is perfect. If it is not, it is not good to let the future influence the return as much as more local states. So, it is discounted.\\
+
+Finally, a \textbf{model} predicts what the environment will do next. We let $P_{ss'}^a = \Prob(S_t+1 = s' | S_t = s, A_t = a)$ and $R_{s}^a = \Prob(R_t+1 | S_t = s, A_t = a)$. P (\textbf{Transition model}) is the transition probability to a next state given an action, while R is the probability of obtaining a certain reward when taking an action in some state.\\
+
+\pagebreak
+
+\begin{figure}[h]
+	\centering
+	\begin{tabular}{| c | c |}
+		\hline
+		Category & Properties\\
+		\hline\hline
+		Value based & No Policy (implicit), Value function\\
+		\hline
+		Policy based & Policy, No Value function\\
+		\hline
+		Actor Critic & Policy, Value function\\
+		\hline
+		Model Free & No Model\\
+		\hline
+		Model based & Model\\
+		\hline
+	\end{tabular}
+	\caption{Types of RL agents}
+	\label{tab:rl_agent_categories}
+\end{figure}
+
+RL Agents can be categorized into the categories that are listed in \ref{tab:rl_agent_categories}. These can require different approaches that will be discussed later.\\
+
+There are two fundamental problems in \textbf{sequential decision making}.
+\begin{itemize}
+	\item \textbf{Reinforcement Learning} 
+		\begin{itemize}
+			\item The environment is initially unknown
+			\item The agent interacts with the environment
+			\item The agent improves its policy
+		\end{itemize}
+	\item \textbf{Planning} (e.g. deliberation, reasoning, introspection, pondering, thought, search)
+		\begin{itemize}
+			\item A model of the environment is known
+			\item The agent performs computations with its model (without any external interaction)
+			\item The agent improves its policy
+		\end{itemize}
+\end{itemize}
+
+It is important for an agent to make a trade-off between exploration and exploitation as well. Depending on the choice in this trade-off, agents will be more or less flexible and may or may not find better actions to perform.
+\begin{itemize}
+	\item \textbf{Exploration} finds more information about the environment
+	\item \textbf{Exploitation} exploits known information to maximize reward
+\end{itemize}
+
+Finally, it is possible to differentiate between prediction and control. \textbf{Prediction} is about evaluating the future given a certain policy, while \textbf{control} is about finding the best policy to optimize the future.

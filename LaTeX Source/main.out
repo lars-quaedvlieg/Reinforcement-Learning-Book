@@ -1,0 +1,66 @@
+\BOOKMARK [0][-]{chapter.1}{Intro to Reinforcement Learning}{}% 1
+\BOOKMARK [1][-]{section.1.1}{The Reinforcement Learning Problem}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Components of an RL Agent}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Markov Decision Processes}{}% 4
+\BOOKMARK [1][-]{section.2.1}{From Markov Chains to MDP's}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.2}{Markov Decision Processes}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.3}{Advanced: Extensions to MDPs}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.3.1}{Infinite and continuous MDPs}{section.2.3}% 8
+\BOOKMARK [2][-]{subsection.2.3.2}{Partially observable MDPs}{section.2.3}% 9
+\BOOKMARK [0][-]{chapter.3}{Planning - Dynamic Programming}{}% 10
+\BOOKMARK [1][-]{section.3.1}{Prediction}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.2}{Control}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.3}{Extensions to DP}{chapter.3}% 13
+\BOOKMARK [0][-]{chapter.4}{Model-Free Prediction}{}% 14
+\BOOKMARK [1][-]{section.4.1}{Monte-Carlo RL}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.2}{Temporal-Difference RL}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.3}{Comparison of methods}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.4}{TD\(\)}{chapter.4}% 18
+\BOOKMARK [0][-]{chapter.5}{Model-Free Control}{}% 19
+\BOOKMARK [1][-]{section.5.1}{On-Policy methods}{chapter.5}% 20
+\BOOKMARK [2][-]{subsection.5.1.1}{Monte-Carlo Control}{section.5.1}% 21
+\BOOKMARK [2][-]{subsection.5.1.2}{TD-Control \(SARSA\)}{section.5.1}% 22
+\BOOKMARK [1][-]{section.5.2}{Off-Policy methods}{chapter.5}% 23
+\BOOKMARK [2][-]{subsection.5.2.1}{Importance Sampling for Off-Policy MC / TD}{section.5.2}% 24
+\BOOKMARK [2][-]{subsection.5.2.2}{Q-Learning}{section.5.2}% 25
+\BOOKMARK [0][-]{chapter.6}{Value Function Approximation}{}% 26
+\BOOKMARK [1][-]{section.6.1}{Incremental Methods}{chapter.6}% 27
+\BOOKMARK [2][-]{subsection.6.1.1}{Prediction algorithms}{section.6.1}% 28
+\BOOKMARK [2][-]{subsection.6.1.2}{Control algorithms}{section.6.1}% 29
+\BOOKMARK [2][-]{subsection.6.1.3}{Algorithm convergence}{section.6.1}% 30
+\BOOKMARK [1][-]{section.6.2}{Batch Methods}{chapter.6}% 31
+\BOOKMARK [2][-]{subsection.6.2.1}{Least-Squares Prediction}{section.6.2}% 32
+\BOOKMARK [2][-]{subsection.6.2.2}{Linear Least-Squares Prediction}{section.6.2}% 33
+\BOOKMARK [2][-]{subsection.6.2.3}{Least-Squares Control}{section.6.2}% 34
+\BOOKMARK [0][-]{chapter.7}{Policy Gradient Methods}{}% 35
+\BOOKMARK [1][-]{section.7.1}{Finite Difference Policy Gradient}{chapter.7}% 36
+\BOOKMARK [1][-]{section.7.2}{Monte-Carlo Policy Gradient}{chapter.7}% 37
+\BOOKMARK [1][-]{section.7.3}{Actor-Critic Policy Gradient}{chapter.7}% 38
+\BOOKMARK [0][-]{chapter.8}{Integrating Learning and Planning}{}% 39
+\BOOKMARK [1][-]{section.8.1}{Model-Based RL}{chapter.8}% 40
+\BOOKMARK [2][-]{subsection.8.1.1}{Table-Lookup Model}{section.8.1}% 41
+\BOOKMARK [2][-]{subsection.8.1.2}{Planning with a Model}{section.8.1}% 42
+\BOOKMARK [1][-]{section.8.2}{Integrated Architectures}{chapter.8}% 43
+\BOOKMARK [1][-]{section.8.3}{Simulation-Based Search}{chapter.8}% 44
+\BOOKMARK [2][-]{subsection.8.3.1}{Monte-Carlo Tree Search}{section.8.3}% 45
+\BOOKMARK [2][-]{subsection.8.3.2}{Temporal-Difference Search}{section.8.3}% 46
+\BOOKMARK [0][-]{chapter.9}{Exploration and Exploitation}{}% 47
+\BOOKMARK [1][-]{section.9.1}{Multi-Armed Bandits}{chapter.9}% 48
+\BOOKMARK [2][-]{subsection.9.1.1}{Upper Confidence Bounds}{section.9.1}% 49
+\BOOKMARK [2][-]{subsection.9.1.2}{Bayesian Bandits}{section.9.1}% 50
+\BOOKMARK [2][-]{subsection.9.1.3}{Probability Matching}{section.9.1}% 51
+\BOOKMARK [2][-]{subsection.9.1.4}{Information State Search}{section.9.1}% 52
+\BOOKMARK [1][-]{section.9.2}{Contextual Bandits}{chapter.9}% 53
+\BOOKMARK [1][-]{section.9.3}{MDPs}{chapter.9}% 54
+\BOOKMARK [0][-]{chapter.10}{RL in Classic Games}{}% 55
+\BOOKMARK [1][-]{section.10.1}{Game Theory}{chapter.10}% 56
+\BOOKMARK [1][-]{section.10.2}{Minimax Search}{chapter.10}% 57
+\BOOKMARK [1][-]{section.10.3}{Self-Play RL}{chapter.10}% 58
+\BOOKMARK [1][-]{section.10.4}{Combining RL and Minimax Search}{chapter.10}% 59
+\BOOKMARK [2][-]{subsection.10.4.1}{Simple TD}{section.10.4}% 60
+\BOOKMARK [2][-]{subsection.10.4.2}{TD Root}{section.10.4}% 61
+\BOOKMARK [2][-]{subsection.10.4.3}{TD Leaf}{section.10.4}% 62
+\BOOKMARK [2][-]{subsection.10.4.4}{TreeStrap}{section.10.4}% 63
+\BOOKMARK [2][-]{subsection.10.4.5}{Simulation-Based Search}{section.10.4}% 64
+\BOOKMARK [1][-]{section.10.5}{RL in Imperfect-Information Games}{chapter.10}% 65
+\BOOKMARK [2][-]{subsection.10.5.1}{Smooth UCT}{section.10.5}% 66

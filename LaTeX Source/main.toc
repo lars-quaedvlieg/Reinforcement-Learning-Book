@@ -1,0 +1,66 @@
+\contentsline {chapter}{\numberline {1}Intro to Reinforcement Learning}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}The Reinforcement Learning Problem}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Components of an RL Agent}{2}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Markov Decision Processes}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}From Markov Chains to MDP's}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Markov Decision Processes}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Advanced: Extensions to MDPs}{8}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Infinite and continuous MDPs}{8}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Partially observable MDPs}{9}{subsection.2.3.2}%
+\contentsline {chapter}{\numberline {3}Planning - Dynamic Programming}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Prediction}{10}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Control}{11}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Extensions to DP}{13}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Model-Free Prediction}{15}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Monte-Carlo RL}{15}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Temporal-Difference RL}{16}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Comparison of methods}{17}{section.4.3}%
+\contentsline {section}{\numberline {4.4}TD($\lambda $)}{18}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Model-Free Control}{21}{chapter.5}%
+\contentsline {section}{\numberline {5.1}On-Policy methods}{22}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Monte-Carlo Control}{23}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}TD-Control (SARSA)}{24}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Off-Policy methods}{25}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Importance Sampling for Off-Policy MC / TD}{26}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Q-Learning}{26}{subsection.5.2.2}%
+\contentsline {chapter}{\numberline {6}Value Function Approximation}{28}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Incremental Methods}{28}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Prediction algorithms}{29}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Control algorithms}{30}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Algorithm convergence}{30}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Batch Methods}{31}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Least-Squares Prediction}{31}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Linear Least-Squares Prediction}{32}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Least-Squares Control}{33}{subsection.6.2.3}%
+\contentsline {chapter}{\numberline {7}Policy Gradient Methods}{34}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Finite Difference Policy Gradient}{35}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Monte-Carlo Policy Gradient}{35}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Actor-Critic Policy Gradient}{36}{section.7.3}%
+\contentsline {chapter}{\numberline {8}Integrating Learning and Planning}{40}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Model-Based RL}{40}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Table-Lookup Model}{41}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Planning with a Model}{41}{subsection.8.1.2}%
+\contentsline {section}{\numberline {8.2}Integrated Architectures}{42}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Simulation-Based Search}{43}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Monte-Carlo Tree Search}{43}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Temporal-Difference Search}{44}{subsection.8.3.2}%
+\contentsline {chapter}{\numberline {9}Exploration and Exploitation}{46}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Multi-Armed Bandits}{46}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Upper Confidence Bounds}{48}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}Bayesian Bandits}{50}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.3}Probability Matching}{50}{subsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.1.4}Information State Search}{51}{subsection.9.1.4}%
+\contentsline {section}{\numberline {9.2}Contextual Bandits}{51}{section.9.2}%
+\contentsline {section}{\numberline {9.3}MDPs}{52}{section.9.3}%
+\contentsline {chapter}{\numberline {10}RL in Classic Games}{54}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Game Theory}{54}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Minimax Search}{55}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Self-Play RL}{55}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Combining RL and Minimax Search}{56}{section.10.4}%
+\contentsline {subsection}{\numberline {10.4.1}Simple TD}{56}{subsection.10.4.1}%
+\contentsline {subsection}{\numberline {10.4.2}TD Root}{56}{subsection.10.4.2}%
+\contentsline {subsection}{\numberline {10.4.3}TD Leaf}{56}{subsection.10.4.3}%
+\contentsline {subsection}{\numberline {10.4.4}TreeStrap}{57}{subsection.10.4.4}%
+\contentsline {subsection}{\numberline {10.4.5}Simulation-Based Search}{57}{subsection.10.4.5}%
+\contentsline {section}{\numberline {10.5}RL in Imperfect-Information Games}{57}{section.10.5}%
+\contentsline {subsection}{\numberline {10.5.1}Smooth UCT}{58}{subsection.10.5.1}%

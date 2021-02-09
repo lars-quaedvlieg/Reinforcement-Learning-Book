@@ -1,0 +1,60 @@
+\documentclass[a4paper,12pt]{book}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{amsmath,amssymb}
+\usepackage{titlesec}
+\usepackage{float}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{natbib}
+\DeclareMathOperator{\E}{\mathbb{E}}
+\DeclareMathOperator{\Prob}{\mathbb{P}}
+
+\titleformat{\chapter}[display]
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+% this alters "before" spacing (the second length argument) to 0
+\titlespacing*{\chapter}{0pt}{-25pt}{20pt}
+
+\graphicspath{{C:/Users/Larsq/Desktop/Reinforcement-Learning-Book/editing/Res/}}
+
+\begin{document}
+
+\author{Lars Quaedvlieg \\ \href{mailto:Larsquaedvlieg@outlook.com}{Larsquaedvlieg@outlook.com}}
+\title{Introduction to Reinforcement Learning \\ \Large Based on \cite{silver2015}}
+\date{October 2020}
+
+\frontmatter
+\maketitle
+\let\cleardoublepage\clearpage
+\tableofcontents
+
+\mainmatter
+\include{./TeX_files/chapter01}
+\let\cleardoublepage\clearpage
+\include{./TeX_files/chapter02}
+\let\cleardoublepage\clearpage
+\include{./TeX_files/chapter03}
+\let\cleardoublepage\clearpage
+\include{./TeX_files/chapter04}
+\let\cleardoublepage\clearpage
+\include{./TeX_files/chapter05}
+\let\cleardoublepage\clearpage
+\include{./TeX_files/chapter06}
+\let\cleardoublepage\clearpage
+\include{./TeX_files/chapter07}
+\let\cleardoublepage\clearpage
+\include{./TeX_files/chapter08}
+\let\cleardoublepage\clearpage
+\include{./TeX_files/chapter09}
+\let\cleardoublepage\clearpage
+\include{./TeX_files/chapter10}
+\let\cleardoublepage\clearpage
+
+\backmatter
+\bibliographystyle{named}
+\bibliography{./TeX_files/bibliography}
+% bibliography, glossary and index would go here.
+
+\end{document}
